@@ -1,1 +1,1 @@
-web: node Xiao.js
+worker: node Xiao.js
